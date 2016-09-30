@@ -15,7 +15,7 @@ NAME3 EMAIL_ADDRESS3 DATE3<br />
 ...
 and so forth
 
-where DATE is in the form MM/DD.
+where DATE is in the form MM/DD. The NAME cannot have spaces.
 Also have to enable gmail's allow less secure apps to access the otl.uchicago@gmail.com account.
 
 If you want to customise the message contents, change the last string in the msg variable to your liking.
